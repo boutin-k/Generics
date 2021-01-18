@@ -1,3 +1,3 @@
 # Generics
 
-Voir le cours dans le [Wiki](https://github.com/boutin-k/Generics/wiki)
+Voir le cours dans le [Wiki](https://github.com/KenWCS/Generics/wiki)
